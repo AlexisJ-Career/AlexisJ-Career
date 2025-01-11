@@ -1,5 +1,4 @@
-## Hello, World! 🌐 I'm Alexis, Your IT Pro & Digital Ally
-
+## Hello, World! 🌐 I'm Alexis, Your IT Pro & Digital Ally ✨
 <!--
 **AlexisJ-Career/AlexisJ-Career** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
