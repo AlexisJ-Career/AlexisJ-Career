@@ -1,5 +1,5 @@
 ## Hello, World! 🌐 I'm Alexis, Your <a href="https://www.linkedin.com/in/alexissjones/)">IT Professional & Digital Ally ✨
-<!--
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
