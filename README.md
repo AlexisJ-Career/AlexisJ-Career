@@ -1,4 +1,4 @@
-## Hello, World! 🌐 I'm Alexis, Your <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/alexissjones/)">IT Professional & Digital Ally ✨
+## Hello, World! 🌐 I'm Alexis, Your <a href="https://www.linkedin.com/in/alexissjones/)">IT Professional & Digital Ally ✨
 <!--
 **AlexisJ-Career/AlexisJ-Career** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
