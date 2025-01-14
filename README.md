@@ -1,8 +1,8 @@
 ## Hello, World! 🌐 I'm Alexis, Your <a href="https://www.linkedin.com/in/alexissjones/)">IT Professional & Digital Ally ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on completing my IT degree & expanding my portfolio.
+- 🌱 I’m currently learning how to use different tools & software inside cloud portals.
+- 👯 I’m excited to collaborate on labs and simulations with fellow ITers! 😁
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
